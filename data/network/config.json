@@ -3,19 +3,19 @@
   "version": "1.0",
   "data": "data.json",
   "logo": {
-    "file": "https://www.ufrn.br/resources/documentos/identidadevisual/logotipo/logotipo_flat.png",
+    "file": "images/medium.png",
     "link": "https://andreh-gustavo.medium.com/como-fazer-uma-an%C3%A1lise-de-redes-de-p%C3%A1ginas-relacionados-de-um-determinado-assunto-do-wikip%C3%A9dia-23accb0cb6a1",
-    "text": "André Barros e Luis"
+    "text": "Artigo no Medium sobre o trabalho"
   },
   "text": {
-    "more": "Network analysis project of Universidade Federal do Rio Grande do Norte",
-    "intro": "Network analysis project of Universidade Federal do Rio Grande do Norte",
-    "title": "Universidade Federal do Rio Grande do Norte Citation"
+    "more": "Neste trabalho iremos utilizar o conceito de redes complexas e grafos, para analisar páginas da Wikipédia que citam a Universidade Federal do Rio Grande do Norte. Com o objetivo de analisar os relacionamentos entre as páginas, de forma que possamos identificar quais são as mais relevantes na rede relacionadas à UFRN.",
+    "intro": "Projeto de análise de redes que citam a Universidade Federal do Rio Grande do Norte",
+    "title": "Citações no Wikipédia a Universidade Federal do Rio Grande do Norte"
   },
   "legend": {
-    "edgeLabel": "Citation",
-    "colorLabel": "Community",
-    "nodeLabel": "Wikipedia Page"
+    "edgeLabel": "Citações",
+    "colorLabel": "Comunidades",
+    "nodeLabel": "Página da Wikipedia"
   },
   "features": {
     "search": true,
